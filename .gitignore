@@ -1,3 +1,4 @@
 .idea
 run.py
 **/__pycache__/**
+users.txt
