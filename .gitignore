@@ -2,3 +2,5 @@
 run.py
 **/__pycache__/**
 users.txt
+export_email_credentials
+logs
