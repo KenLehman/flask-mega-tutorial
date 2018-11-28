@@ -17,3 +17,6 @@ class Config(object):
     ADMINS = [os.environ.get('ADMINS')]
 
     POSTS_PER_PAGE = 2
+
+    LANGUAGES = ['en', 'es']
+
