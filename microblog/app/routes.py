@@ -7,6 +7,7 @@ from app.models import User, Post
 from werkzeug.urls import url_parse
 from datetime import datetime
 from flask_babel import _, get_locale
+from flask import g
 
 
 @app.before_request
