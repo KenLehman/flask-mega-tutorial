@@ -3,4 +3,5 @@ run.py
 **/__pycache__/**
 users.txt
 export_email_credentials
+export_azure_key
 logs
